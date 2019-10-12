@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29311.281
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC_Core_FamilyApp_2019_10_12_Sqlite", "FamilyApp-2019-10-12\MVC_Core_FamilyApp_2019_10_12_Sqlite.csproj", "{5F1806B2-5811-4584-85B7-4643E821E416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1806B2-5811-4584-85B7-4643E821E416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1806B2-5811-4584-85B7-4643E821E416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1806B2-5811-4584-85B7-4643E821E416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1806B2-5811-4584-85B7-4643E821E416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F71A48D7-AC46-4179-BE3E-ED9C730D7D3C}
+	EndGlobalSection
+EndGlobal
